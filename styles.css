@@ -1,0 +1,26 @@
+body {
+    background-color: #fffbf7;
+}
+h1 {
+    text-align: center;            
+    color: #025157;
+    font-size: 50px;
+ }
+ p {
+    text-align: center;
+     color:#46484c;
+ }
+ form {
+    text-align: center;
+ }
+ button {
+    
+    color: #fff;
+    background-color: #025157;
+}
+.publicidad {
+    color:#8b8b8bcc;
+    text-align: center;
+    font-family: verdana;
+    font-size: 15px;
+}
